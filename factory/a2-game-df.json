@@ -1,0 +1,15 @@
+{
+	"name": "a2-game-df",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8940d98d-7542-4267-a746-703e0abc0d79",
+		"tenantId": "7fc525a8-1c32-4ca0-b6b3-d0b625ed4939"
+	}
+}
